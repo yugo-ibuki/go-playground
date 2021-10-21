@@ -13,6 +13,8 @@ func main() {
 	fmt.Println(obj)
 }
 
+// コメントです。
+
 // Ginを使用したhttpサーバ
 //func main() {
 //	engine:= gin.Default()
